@@ -26,7 +26,7 @@ template = "homepage.html"
 </div>
 
 # [Over mij](about)
-Als Computer Vision Engineer overbrug ik het gat tussen complexe theorie en de praktijk. Door een praktische HBO-bachelor te combineren met een analytische WO-master, transformeer ik concepten in werkende prototypen. **[Lees hier meer](about)**
+Als Computer Vision Engineer overbrug ik het gat tussen complexe theorie en de praktijk. Door een praktische HBO-bachelor te combineren met een analytische WO-master, transformeer ik concepten in werkende systemen. **[Lees hier meer](about)**
 
 # [Projects](projects)
 Hier vind je een overzicht van mijn werk op het gebied van Computer Vision, Robotica en Deep Learning. **[Bekijk mijn projecten](projects)**

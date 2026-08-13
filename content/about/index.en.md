@@ -8,7 +8,7 @@ title = "About me"
 
 As a Computer Vision Engineer, I bridge the gap between theory and practice by combining the hands-on, practical foundation of an HBO Bachelor’s with the research side of a WO Master’s.
 
-I am good at taking abstract concepts and turning them into a working prototype, allowing companies to try out new ideas quickly. Rather than sticking to rigid blueprints, I like to find creative, out-of-the-box solutions that work.
+I am good at taking abstract concepts and turning them into a working systems, allowing companies to implement new ideas. Rather than sticking to rigid blueprints, I like to find creative, out-of-the-box solutions that work.
 
 In my free time, I’m usually tinkering with Linux, calibrating my 3D printer, playing board games, or going for a ride on my mountain bike.
 
