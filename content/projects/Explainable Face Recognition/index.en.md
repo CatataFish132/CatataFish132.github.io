@@ -40,7 +40,7 @@ Developed an Explainable Forensic Face Recognition (EFFR) model, an innovative "
     - _Eyebrows:_ Segmented rows into 4 quadrants, deploying a uniform rotation-invariant LBP histogram to differentiate edge/corner bins (representing individual hairs) from flat states (skin) to map density distributions.
     - _Mouth & Lips:_ Fitted Fourier Shape Descriptors across 4 boundaries to capture lip shapes.
     - _Skin:_ Isolated valid regions via erosion, choosing 50 random patches to evaluate micro-textures through multi-radius LBP and GLCM matrices.
-- **Facial Mark Tracking (YOLOv11M):** Trained a middleweight object detection model on high-resolution ($1280\times1280$ pixels) images to detect anomalies like moles or freckles. Used perspective-n-point pose computation (solvePnP) to map 2D image coordinates onto a 3D cylindrical head model to track spatial distances.
+- **Facial Mark Tracking (YOLOv11M):** Trained a middleweight object detection model on high-resolution images to detect anomalies like moles or freckles. Used perspective-n-point pose computation (solvePnP) to map 2D image coordinates onto a 3D cylindrical head model to track spatial distances.
 - **Hierarchical Statistical Fusing:** Standardized raw comparison features via a Yeo-Johnson power transform, training a Logistic Regression model over normalized inputs to synthesize features into higher-level units.
 - **Multiplied Likelihood Ratios:** Transformed scores into forensic Likelihood Ratios based on dataset-wide non-match/match densities to generate a final verification score.
 

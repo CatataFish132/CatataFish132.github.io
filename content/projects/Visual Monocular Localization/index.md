@@ -18,7 +18,7 @@ mathjax = true
 Je kunt het volledige artikel hier lezen: [Download PDF (Self Driving Challenge Article Thimo Veldema.pdf)](<Self Driving Challenge Article Thimo Veldema.pdf>)
 # Introductie
 
-Voor de jaarlijkse Dutch RDW (Rijksdienst voor het Wegverkeer) Self Driving Challenge is een realtime monoculair lokalisatiesysteem ontwikkeld en ingezet op een autonoom voertuig dat over een gesloten testcircuit navigeerde. Door uitsluitend gebruik te maken van een enkele, naar voren gerichte camera, slaagde het systeem erin om de positie en oriëntatie van het voertuig op de baan te schatten. Dit werd bereikt door visuele bewegingsregistratie (odometrie) te combineren met realtime rijstrookdetectie, waarmee het pad van het voertuig continu werd gecorrigeerd aan de hand van een vooraf gedefinieerde kaart.
+Voor de jaarlijkse Nederlandse RDW (Rijksdienst voor het Wegverkeer) Self Driving Challenge is een realtime monoculair lokalisatiesysteem ontwikkeld en ingezet op een autonoom voertuig dat over een gesloten testcircuit navigeerde. Door uitsluitend gebruik te maken van een enkele, naar voren gerichte camera, slaagde het systeem erin om de positie en oriëntatie van het voertuig op de baan te schatten. Dit werd bereikt door visuele bewegingsregistratie (odometrie) te combineren met realtime rijstrookdetectie, waarmee het pad van het voertuig continu werd gecorrigeerd aan de hand van een vooraf gedefinieerde kaart.
 
 # Uitdagingen
 

@@ -15,7 +15,7 @@ mathjax = true
 Je kunt het volledige wetenschappelijke artikel hier lezen: [Download PDF (Iris.pdf)](Iris.pdf)
 
 # Introductie
-Ontwikkeling van een geavanceerd biometrisch irisherkenningssysteem dat coöperatieve speltheorie gebruikt om de traditionele kenmerkextractie-pipeline van John Daugman te optimaliseren. Door Shapley-waarde-gebaseerde kenmerkbepaling toe te passen, evalueert het systeem mathematisch de individuele bijdrage van 2D Gabor-filters om redundantie te elimineren. Deze datagestuurde aanpak resulteert in een sterk gecomprimeerde, computationeel efficiënte en state-of-the-art filterset die een Equal Error Rate (EER) van maar liefst **0,05%** behaalt.
+Ontwikkeling van een geavanceerd biometrisch irisherkenningssysteem dat coöperatieve speltheorie gebruikt om de traditionele kenmerkextractie-pipeline van John Daugman te optimaliseren. Door Shapley toe te passen, evalueert het systeem mathematisch de individuele bijdrage van 2D Gabor-filters om redundantie te elimineren. Deze datagestuurde aanpak resulteert in een filterset die een Equal Error Rate (EER) van maar liefst **0,05%** behaalt.
 
 # Projectdetails
 - **Kerntechnologieën:** Python, OpenCV, NumPy, Shapley-waarde-optimalisatie, USIT SDK.
@@ -29,7 +29,7 @@ Ontwikkeling van een geavanceerd biometrisch irisherkenningssysteem dat coöpera
 - **Extreme Gevoeligheid voor Afwijkingen:** Kleine rotationele afwijkingen of verticale verschuivingen (veroorzaakt door imperfecte oogsegmentatie) leiden tot drastische, valse mismatches.
 
 # Belangrijkste Kenmerken & Acties
-- **Gebruiksvriendelijke Bibliotheek:** De volledige pipeline is verpakt in een intuïtieve, overzichtelijke en eenvoudig te begrijpen Python-bibliotheek, waardoor andere studenten met slechts een paar regels code end-to-end iriscodering en -matching kunnen uitvoeren.
+- **Gebruiksvriendelijke Bibliotheek:** De volledige pipeline is verpakt in een intuïtieve, overzichtelijke en eenvoudig te begrijpen Python-bibliotheek, waardoor andere studenten met slechts een paar regels code end-to-end iriscodering en matching kunnen uitvoeren.
 - **Integratie van Coöperatieve Speltheorie:** Gabor-filters zijn gemodelleerd als "spelers" in een coöperatief spel, waarbij hun marginale bijdrage (Shapley-waarden) is berekend om systematisch filters met een grote impact te behouden en redundante filters weg te snijden.
 - **Robuuste Rotationele Uitlijning:** Ontwikkeling van een dynamisch pixelverschuivingscorrectiesysteem op de genormaliseerde irisband om de optimale rotationele matchingshoek te simuleren en te vinden.
 
